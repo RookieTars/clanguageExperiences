@@ -8,6 +8,7 @@
 #include <math.h>
 #include <wtypes.h>
 
+#define CURYEAR 2019 
 #define COLUMN 5 
 #define NODENUM 5000
 
